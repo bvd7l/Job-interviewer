@@ -1,0 +1,19 @@
+{
+    "file_path": "./cv sample/JD.jpg",
+    "words_count": 101,
+    "raw_text": [
+        "Senior Frontend Developer (React / Next.js)",
+        "Location: Remote | Type: Full-Time",
+        "Key Responsibilities",
+        "° Build production-ready web apps and admin dashboards using Next.js, React, and",
+        "TypeScript.",
+        "° Implement data fetching and state with TanStack Query and TanStack Table.",
+        "© Design secure UI architecture using Server Actions, RBAC, and shaden/ui.",
+        "° Integrate REST APIs with full support for RTL, SEO, and responsive design.",
+        "Requirements",
+        "© _1+years experience in React/Next.js frontend development.",
+        "© Strong expertise in TypeScript, Tailwind CSS, REST APIs, and Git.",
+        "© Experience with monorepo setups, authentication workflows, and Linux VPS deployment.",
+        "© Fluent in Arabic with strong technical English skills."
+    ]
+}

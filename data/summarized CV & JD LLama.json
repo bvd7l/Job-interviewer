@@ -1,0 +1,40 @@
+{
+    "candidate": {
+        "name": "Abdulrahman Rahhal",
+        "total_years_experience": 5,
+        "top_5_skills": [
+            "Next.js",
+            "React",
+            "TypeScript",
+            "Git",
+            "Server Actions"
+        ],
+        "latest_role": "Senior Frontend Developer (React/Next.js)",
+        "key_projects": [
+            "Hudud"
+        ]
+    },
+    "job": {
+        "target_role": "Senior Frontend Developer (React/Next.js)",
+        "required_skills": [
+            "React/Next.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "Git",
+            "Linux"
+        ],
+        "min_years_experience": 6
+    },
+    "gap_analysis": {
+        "matching_skills": [
+            "Server Actions"
+        ],
+        "missing_skills": [
+            "Tailwind CSS"
+        ],
+        "suggested_interview_questions": [
+            "Why did you choose Tailwind CSS instead of other CSS frameworks?",
+            "Can you elaborate on your experience with Server Actions?"
+        ]
+    }
+}

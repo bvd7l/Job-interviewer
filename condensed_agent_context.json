@@ -1,0 +1,61 @@
+{
+    "candidate": {
+        "name": "Abdulrahman Rahhal",
+        "total_years_experience": 1,
+        "top_5_skills": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "shadcn/ui",
+            "TanStack Query"
+        ],
+        "latest_role": "Freelance Frontend Developer",
+        "key_projects": [
+            "Hudhod - AI-Powered Digital Presence Platform",
+            "BlueGateX - Fintech e-wallet admin dashboards",
+            "NewPower - Representative management admin dashboard"
+        ]
+    },
+    "job": {
+        "target_role": "Senior Frontend Developer (React / Next.js)",
+        "required_skills": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "TanStack Query",
+            "TanStack Table",
+            "shadcn/ui",
+            "Server Actions",
+            "RBAC",
+            "REST APIs",
+            "Monorepo",
+            "Linux VPS deployment",
+            "Arabic",
+            "Git"
+        ],
+        "min_years_experience": 1
+    },
+    "gap_analysis": {
+        "matching_skills": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "shadcn/ui",
+            "TanStack Query",
+            "TanStack Table",
+            "Server Actions",
+            "RBAC",
+            "REST APIs",
+            "Monorepo",
+            "Linux VPS deployment",
+            "Arabic",
+            "Git"
+        ],
+        "missing_skills": [],
+        "suggested_interview_questions": [
+            "Can you describe your experience setting up and managing a monorepo for a frontend team?",
+            "How did you implement Server Actions and secure RBAC in the BlueGateX admin dashboards?",
+            "What strategies did you use to ensure RTL support and accessibility across your applications?"
+        ]
+    }
+}

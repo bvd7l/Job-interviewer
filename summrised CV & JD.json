@@ -1,0 +1,70 @@
+{
+    "candidate": {
+        "name": "Abdulrahman Rahhal",
+        "total_years_experience": 1,
+        "top_5_skills": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "TanStack Query",
+            "shadcn/ui"
+        ],
+        "latest_role": "Freelance Frontend Developer",
+        "key_projects": [
+            "BlueGateX fintech admin dashboards",
+            "Hudhod AI‑Powered Digital Presence Platform",
+            "NewPower admin dashboard"
+        ]
+    },
+    "job": {
+        "target_role": "Senior Frontend Developer",
+        "required_skills": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "TanStack Query",
+            "TanStack Table",
+            "shadcn/ui",
+            "Server Actions",
+            "RBAC",
+            "REST APIs",
+            "RTL",
+            "SEO",
+            "Tailwind CSS",
+            "Git",
+            "Linux VPS deployment"
+        ],
+        "min_years_experience": 1
+    },
+    "gap_analysis": {
+        "matching_skills": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "TanStack Query",
+            "TanStack Table",
+            "shadcn/ui",
+            "Server Actions",
+            "RBAC",
+            "REST APIs",
+            "RTL",
+            "SEO",
+            "Tailwind CSS",
+            "Git",
+            "Linux VPS"
+        ],
+        "missing_skills": [
+            "Senior-level leadership experience",
+            "Complex multi‑project architecture depth",
+            "Extensive production deployment history"
+        ],
+        "suggested_interview_questions": [
+            "Describe how you designed a secure UI architecture with Server Actions and RBAC.",
+            "How did you implement monorepo structure and shared authentication components?",
+            "Explain your approach to handling RTL and SEO in a multilingual Next.js app.",
+            "Walk through a scenario where you optimized data fetching with TanStack Query.",
+            "What strategies did you use for deploying on Linux VPS and ensuring uptime?",
+            "Can you share a challenge you faced while building admin dashboards and how you solved it?"
+        ]
+    }
+}

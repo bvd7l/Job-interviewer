@@ -1,0 +1,70 @@
+{
+    "candidate": {
+        "name": "Abdulrahman Rahhal",
+        "total_years_experience": 1,
+        "top_5_skills": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "shadcn/ui"
+        ],
+        "latest_role": "Freelance Frontend Developer",
+        "key_projects": [
+            "BlueGateX Fintech Admin Dashboards (30+ screens)",
+            "NewPower Admin Dashboard (20+ screens)",
+            "Hudhod AI‑Powered Digital Presence Platform (20+ screens)"
+        ]
+    },
+    "job": {
+        "target_role": "Senior Frontend Developer (React / Next.js)",
+        "required_skills": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "TanStack Query",
+            "TanStack Table",
+            "shadcn/ui",
+            "Server Actions",
+            "RBAC",
+            "REST APIs",
+            "RTL",
+            "SEO",
+            "Responsive Design",
+            "Tailwind CSS",
+            "Git",
+            "Linux VPS Deployment",
+            "Monorepo Setup",
+            "Authentication Workflows"
+        ],
+        "min_years_experience": 1
+    },
+    "gap_analysis": {
+        "matching_skills": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "shadcn/ui",
+            "TanStack Query",
+            "TanStack Table",
+            "Server Actions",
+            "RBAC",
+            "REST APIs",
+            "RTL",
+            "SEO",
+            "Responsive Design",
+            "Git",
+            "Linux VPS Deployment",
+            "Monorepo Setup",
+            "Authentication Workflows"
+        ],
+        "missing_skills": [],
+        "suggested_interview_questions": [
+            "Can you describe your experience building secure UI architecture using Server Actions and RBAC in a Next.js application?",
+            "How did you structure the monorepo and shared authentication components for BlueGateX?",
+            "What approach did you take to support RTL and SEO for the Hudhod platform?",
+            "Explain how you managed state and data fetching with TanStack Query in a production dashboard."
+        ]
+    }
+}
